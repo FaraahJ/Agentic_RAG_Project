@@ -1,4 +1,4 @@
-# PROJECT 3: Retrieval_Augemnted_Generation_Project
+# PROJECT 3: Retrieval Augemented Generation Project
 This repository aims to explore the coding and features behind a Retrieval Augmented Generation (RAG) application using Groq, OpenAI and Tavily.
 
 📂The [crew_data](https://github.com/FaraahJ/Agentic_RAG_Project/tree/main/crew_data)  directory contains all PDF documents used in this project and were chosen at random from [this Kaggle dataset](https://www.kaggle.com/datasets/manisha717/dataset-of-pdf-files ).
